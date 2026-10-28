@@ -10,11 +10,15 @@
 
 ## Terminology
 
-| Term | Definition | Context |
-|---|---|---|
-|  |  |  |
-|  |  |  |
-|  |  |  |
+- **Term:** 
+  - **Definition:** 
+  - **Context:** 
+- **Term:** 
+  - **Definition:** 
+  - **Context:** 
+- **Term:** 
+  - **Definition:** 
+  - **Context:** 
 
 ## Technical notes
 

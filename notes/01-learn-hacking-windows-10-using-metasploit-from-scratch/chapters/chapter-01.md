@@ -1,8 +1,8 @@
 # Chapter 01
 
 - Course: Learn Hacking Windows 10 Using Metasploit from Scratch
-- Date:
-- Status:
+- Date: 28.10.2026.
+- Status: Ongoing
 
 ## Summary
 
@@ -10,11 +10,15 @@
 
 ## Terminology
 
-| Term | Definition | Context |
-|---|---|---|
-|  |  |  |
-|  |  |  |
-|  |  |  |
+- **Term:** 
+  - **Definition:** 
+  - **Context:** 
+- **Term:** 
+  - **Definition:** 
+  - **Context:** 
+- **Term:** 
+  - **Definition:** 
+  - **Context:** 
 
 ## Technical notes
 
